@@ -23,3 +23,11 @@ A continuación se muestran los resultados más importantes de la colección:
 
 ## 💡 Reflexión Final
 Este análisis de **262 registros** me ha permitido entender mejor los flujos de préstamo y las preferencias de los lectores, facilitando la organización futura de la biblioteca.
+---
+
+## 🗓️ Disponibilidad del Servicio
+Tras analizar las fechas de los 262 registros:
+* **Actividad:** Se observa una biblioteca operativa de **lunes a domingo**, sin periodos de cierre detectados en los datos.
+* **Continuidad:** El servicio se mantiene constante durante todos los meses del dataset analizado.
+
+
