@@ -1,27 +1,25 @@
-# Atlas-proyecto-Grupal
-Biblioteca
 # 📚 ANÁLISIS DE MI BIBLIOTECA
-Este es el análisis de mi biblioteca personal con **262 libros**.
 
-## 📊 CONCLUSIONES PRINCIPALES
-A continuación se muestran los resultados más importantes:
+Este es el análisis de mi biblioteca personal con **262 registros**.
 
-### 1. Categorías más populares
-La categoría con más préstamos es **Ficción**.
-
-### 2. Puntualidad en devoluciones
-El **88%** de los libros se devuelven a tiempo.
-## 📈 Conclusiones del Análisis
-Basándome en el análisis de los **262 registros**, estas son las conclusiones principales:
-
-* **Categoría Reina:** La **Ficción** es claramente la categoría más popular, seguida de cerca por los libros **Infantiles** y **Ensayos**.
-  ---
-  
-* **Puntualidad:** Existe un **alto índice de cumplimiento**, aunque aproximadamente un **12%** de los préstamos (como en el caso de *Poesía* o *Ensayo*) presentan retrasos en la devolución.
 ---
 
-* **Idioma:** El **español** es el idioma principal de la colección, pero hay una presencia constante de libros en **inglés** (especialmente en Ficción) y **catalán**.
-  ---
-  
-* **Hábitos del usuario:** La mayoría de los préstamos y devoluciones ocurren en la **franja de tarde** y los días de mayor movimiento son los **domingos y martes**.
-  
+## 📊 CONCLUSIONES PRINCIPALES
+
+A continuación se muestran los resultados más importantes de la colección:
+
+1. **Categoría Reina:** La **Ficción** es claramente la categoría más popular, seguida de cerca por los libros infantiles y ensayos.
+2. **Puntualidad:** El **88%** de los libros se devuelven a tiempo, lo que indica un alto índice de cumplimiento.
+
+---
+
+## 📈 Conclusiones Detalladas del Análisis
+
+* **Diversidad de Idiomas:** El **español** es el idioma principal, pero existe una presencia constante de libros en **inglés** y **catalán**.
+* **Hábitos de Uso:** La mayoría de los préstamos ocurren en la **franja de tarde**. 
+* **Días de Actividad:** Los días de mayor movimiento en la biblioteca son los **domingos y martes**.
+
+---
+
+## 💡 Reflexión Final
+Este análisis de **262 registros** me ha permitido entender mejor los flujos de préstamo y las preferencias de los lectores, facilitando la organización futura de la biblioteca.
