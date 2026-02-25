@@ -21,8 +21,14 @@ A continuación se muestran los resultados más importantes de la colección:
 
 ---
 ### 📊 Visualización del Análisis
+
 ![Gráfico de Estaciones y Actividad](Graf.Estaciones.png)
-*Análisis visual de los 261 registros de la biblioteca.*
+*Figura 1: Análisis por estaciones y actividad mensual.*
+
+![Gráfico de Préstamos por Día](Prestamos_dia.png)
+*Figura 2: Distribución de préstamos según el día de la semana.*
+
+
 
 
 ## 💡 Reflexión Final
