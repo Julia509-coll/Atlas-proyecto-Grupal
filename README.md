@@ -20,6 +20,10 @@ A continuación se muestran los resultados más importantes de la colección:
 * **Días de Actividad:** Los días de mayor movimiento en la biblioteca son los **domingos y martes**.
 
 ---
+### 📊 Visualización del Análisis
+![Gráfico de Estaciones y Actividad](Graf.Estaciones.png)
+*Análisis visual de los 261 registros de la biblioteca.*
+
 
 ## 💡 Reflexión Final
 Este análisis de **261 registros** me ha permitido entender mejor los flujos de préstamo y las preferencias de los lectores, facilitando la organización futura de la biblioteca.
