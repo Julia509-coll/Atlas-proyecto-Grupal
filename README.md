@@ -1,6 +1,6 @@
 # 📚 ANÁLISIS DE MI BIBLIOTECA
 
-Este es el análisis de mi biblioteca personal con **262 registros**.
+Este es el análisis de mi biblioteca personal con **261 registros**.
 
 ---
 
@@ -9,7 +9,7 @@ Este es el análisis de mi biblioteca personal con **262 registros**.
 A continuación se muestran los resultados más importantes de la colección:
 
 1. **Categoría Reina:** La **Ficción** es claramente la categoría más popular, seguida de cerca por los libros infantiles y ensayos.
-2. **Puntualidad:** El **88%** de los libros se devuelven a tiempo, lo que indica un alto índice de cumplimiento.
+2. **Puntualidad:** El **94%** de los libros se devuelven a tiempo, lo que indica un alto índice de cumplimiento.
 
 ---
 
@@ -22,7 +22,7 @@ A continuación se muestran los resultados más importantes de la colección:
 ---
 
 ## 💡 Reflexión Final
-Este análisis de **262 registros** me ha permitido entender mejor los flujos de préstamo y las preferencias de los lectores, facilitando la organización futura de la biblioteca.
+Este análisis de **261 registros** me ha permitido entender mejor los flujos de préstamo y las preferencias de los lectores, facilitando la organización futura de la biblioteca.
 ---
 
 ## 🗓️ Disponibilidad del Servicio
