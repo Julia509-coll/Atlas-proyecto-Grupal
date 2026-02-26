@@ -36,7 +36,7 @@ Este análisis de **261 registros** me ha permitido entender mejor los flujos de
 ---
 
 ## 🗓️ Disponibilidad del Servicio
-Tras analizar las fechas de los 262 registros:
+Tras analizar las fechas de los 261 registros:
 * **Actividad:** Se observa una biblioteca operativa de **lunes a domingo**, sin periodos de cierre detectados en los datos.
 * **Continuidad:** El servicio se mantiene constante durante todos los meses del dataset analizado.
 
